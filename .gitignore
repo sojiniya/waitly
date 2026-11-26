@@ -1,0 +1,17 @@
+# 공통 (frontend/.gitignore, backend/.gitignore 에 각 영역별 규칙이 있음)
+.env
+.env.*
+!.env.example
+
+# OS / 에디터
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Eclipse / STS
+.metadata/
+.project
+.classpath
+.settings/
+.factorypath
