@@ -15,3 +15,6 @@ Thumbs.db
 .classpath
 .settings/
 .factorypath
+
+# 디자인 원본 (로컬 참고용)
+/_design_ref/
